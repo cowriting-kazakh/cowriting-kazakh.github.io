@@ -1,1 +1,1 @@
-# cowriting-kazakh.github.io
+This is a readme
