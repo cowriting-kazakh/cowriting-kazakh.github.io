@@ -1,9 +1,8 @@
-title: CoWriter-Projet
+title: CoWriting-Kazakh
 author: Wafa Johal
 email: wafa.johal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  CoWriter is a research project aiming to help children with handwriting difficulties by engaging in long-term interactions 
-  with a social robot.
+  CoWriting Kazakh is a research project aimimg to help children with the transition from cyrillic to latin alphabet in the Kazakh language.
 baseurl: ""
 twitter_username: jekyllrb
 github_username:  jekyll

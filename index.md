@@ -7,12 +7,13 @@ The proposed collaboration aims to benefit from the new Language Planning in Kaz
 
 
 ## References:
-1.E. Altynsarina: Kazakhstan adopts new version of Latin-based Kazakh alphabet. 2018. NATION. [Accessed on 9-July-2018: https://astanatimes.com/2018/02/kazakhstan-adopts-new-version-of-latin-based-kazakh-alphabet/]
-D. Hood; S. Lemaignan; P. Dillenbourg: The CoWriter Project: Teaching a Robot how to Write. 2015. 2015 Human-Robot Interaction Conference, Portand, USA, March 3-5, 2015. DOI : 10.1145/2701973.2702091
-A. Jacq; S. Lemaignan; F. Garcia; P. Dillenbourg; A. Paiva : Building Successful Long Child-Robot Interactions in a Learning Context. 2016. 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI), Christchurch, NEW ZEALAND, MAR 07-10, 2016. p. 239-246.
-S. Lemaignan; A. D. Jacq; D. Hood; F. Garcia; A. Paiva et al. : Learning by Teaching a Robot: The Case of Handwriting; Robotics and Automation Magazine. 2016. DOI : 10.1109/Mra.2016.2546700.
-Thibault Asselborn, Thomas Gargot, Łukasz Kidziński, Wafa Johal, David Cohen, Caroline Jolly & Pierre Dillenbourg, Automated human-level diagnosis of dysgraphia using a consumer tablet. npj Digital Medicine. volume 1, Article number: 42 (2018) https://doi.org/10.1038/s41746-018-0049-x 
+1. E. Altynsarina: Kazakhstan adopts new version of Latin-based Kazakh alphabet. 2018. NATION. [Accessed on 9-July-2018: https://astanatimes.com/2018/02/kazakhstan-adopts-new-version-of-latin-based-kazakh-alphabet/]
+2. D. Hood; S. Lemaignan; P. Dillenbourg: The CoWriter Project: Teaching a Robot how to Write. 2015. 2015 Human-Robot Interaction Conference, Portand, USA, March 3-5, 2015. DOI : 10.1145/2701973.2702091
+3. A. Jacq; S. Lemaignan; F. Garcia; P. Dillenbourg; A. Paiva : Building Successful Long Child-Robot Interactions in a Learning Context. 2016. 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI), Christchurch, NEW ZEALAND, MAR 07-10, 2016. p. 239-246.
+4. S. Lemaignan; A. D. Jacq; D. Hood; F. Garcia; A. Paiva et al. : Learning by Teaching a Robot: The Case of Handwriting; Robotics and Automation Magazine. 2016. DOI : 10.1109/Mra.2016.2546700.
+5. Thibault Asselborn, Thomas Gargot, Łukasz Kidziński, Wafa Johal, David Cohen, Caroline Jolly & Pierre Dillenbourg, Automated human-level diagnosis of dysgraphia using a consumer tablet. npj Digital Medicine. volume 1, Article number: 42 (2018) https://doi.org/10.1038/s41746-018-0049-x 
 
+6. https://astanatimes.com/2018/02/kazakhstan-adopts-new-version-of-latin-based-kazakh-alphabet/
 
 
 ## Objective: 
